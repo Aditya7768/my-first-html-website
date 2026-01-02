@@ -29,7 +29,7 @@ Copy code
 
 ## 🚀 Live Website
 👉 **Live Demo:**  
-https://aditya7768.github.io/portfolio/
+https://aditya7768.github.io/my-first-html-website/
 
 
 ## 📚 About Me
@@ -48,7 +48,7 @@ I enjoy building clean, minimal, and aesthetic user interfaces while improving m
 - Add animations on scroll  
 
 ## 📬 Contact
-- GitHub: https://github.com/aditya7768  
+- GitHub: https://github.com/Aditya7768  
 
 ---
 
