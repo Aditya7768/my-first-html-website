@@ -1,1 +1,56 @@
-this is my first html website 
+# 🌐 Aditya Jadhav | Portfolio Website
+
+This is my personal **portfolio website** built to showcase my skills, projects, and learning journey as a **Computer Engineering student**.
+
+## ✨ Features
+- Clean and aesthetic UI
+- Responsive layout (works on desktop & mobile)
+- Built using core web technologies
+- Hosted using GitHub Pages
+
+## 🛠️ Technologies Used
+- **HTML** – Structure of the website  
+- **CSS** – Styling and layout (modern & aesthetic)  
+- **JavaScript** – Basic interactivity and smooth scrolling  
+
+## 📁 Project Structure
+portfolio/
+│
+├── index.html
+│
+├── css/
+│ └── style.css
+│
+└── js/
+└── script.js
+
+markdown
+Copy code
+
+## 🚀 Live Website
+👉 **Live Demo:**  
+https://yourusername.github.io/portfolio/
+
+(Replace `yourusername` with your GitHub username)
+
+## 📚 About Me
+I am a **Computer Engineering student** who is learning **web development step by step**.  
+I enjoy building clean, minimal, and aesthetic user interfaces while improving my programming skills.
+
+## 📌 Projects Included
+- Personal Portfolio Website  
+- To-Do List App (JavaScript)  
+- Student Management System  
+
+## 📈 Future Improvements
+- Add skills section with progress bars  
+- Make website fully responsive  
+- Add contact form  
+- Add animations on scroll  
+
+## 📬 Contact
+- GitHub: https://github.com/yourusername  
+
+---
+
+⭐ If you like this project, feel free to star the repository!
